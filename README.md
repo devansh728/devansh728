@@ -59,80 +59,159 @@ Python | Java | C++ | JavaScript | TypeScript | Go
 # 🧠 **Developer Mindmap (Mermaid Diagram)**  
 > This diagram shows my skills, strengths, projects, achievements, and career direction.
 
+<br>
+
 ```mermaid
 mindmap
-  root(("🚀 Devansh Garg"))
-    Identity
-      "👨‍💻 Software Engineer"
-      "🤖 AI/ML & Agentic AI Specialist"
-      "🧩 Backend & Distributed Systems Engineer"
-      "🌐 Full-Stack Developer Next.js"
-      "☁️ DevOps & Cloud Engineer"
-      "🎯 System Design Enthusiast"
-    Backend Engineering
-      Frameworks
-        FastAPI
-        Spring Boot
-        Node.js
-      Architecture
-        "Microservices"
-        "Event-Driven Systems"
-        "Scalable REST APIs"
-        "Asynchronous Workers"
-      Messaging
-        Kafka
-        RabbitMQ
-      Core Strengths
-        "Low Latency APIs"
-        "Redis Caching"
-        "DB Optimization"
-        "System Reliability"
-    AI & Machine Learning
-      Deep Learning
-        CNNs
-        LSTMs
-        Transformers
-        Autoencoders
-      Agentic AI
-        LangGraph
-        Multi-Agent Systems
-      Computer Vision
-        YOLOv8
-        DeepFace
+  root(🚀 Devansh Garg)
+    
+    🧑‍💼 Professional Identity
+      👨‍💻 Software Engineer
+      🤖 AI/ML Specialist
+        Agentic AI Expert
+      🏗️ Backend & Distributed Systems
+      🌐 Full-Stack Developer
+        Next.js Focus
+      ☁️ DevOps & Cloud
+      🎯 System Design Enthusiast
+    
+    🔧 Core Competencies
+      🏗️ Backend Engineering
+        🛠️ Frameworks
+          FastAPI
+          Spring Boot
+          Node.js
+        🏛️ Architecture
+          Microservices
+          Event-Driven Systems
+          Scalable REST APIs
+          Async Workers
+        📨 Messaging
+          Apache Kafka
+          RabbitMQ
+        ⭐ Strengths
+          Low Latency APIs
+          Redis Caching
+          DB Optimization
+          System Reliability
+      
+      🤖 AI & Machine Learning
+        🧠 Deep Learning
+          CNNs
+          LSTMs
+          Transformers
+          Autoencoders
+        🤖 Agentic AI
+          LangGraph
+          Multi-Agent Systems
+        👁️ Computer Vision
+          YOLOv8
+          DeepFace
+          Gait Analysis
+        📝 NLP
+          RAG Systems
+        
+      ☁️ DevOps & Cloud
+        🐳 Containerization
+          Docker
+          Kubernetes
+        ☁️ Cloud Platform
+          AWS
+        ⚙️ CI/CD
+          GitHub Actions
+          Jenkins
+        🏗️ Infrastructure as Code
+          Terraform
+        
+      🌐 Full Stack
+        Next.js
+        React
+        TailwindCSS
+        
+      🗄️ Databases
+        PostgreSQL
+        MongoDB
+        MySQL
+        Redis
+    
+    🚀 Major Projects
+      🔧 Agentic AI Predictive Maintenance
+        Real-time system monitoring
+        Predictive analytics
+      
+      🕵️‍♂️ Missing Person Detection
+        Face Recognition
         Gait Analysis
-      NLP
-        RAG Systems
-    DevOps & Cloud
-      Docker
-      Kubernetes
-      AWS
-      GitHub Actions
-      Jenkins
-      Terraform
-    Full Stack Development
-      Next.js
-      React
-      TailwindCSS
-    Databases
-      PostgreSQL
-      MongoDB
-      MySQL
-      Redis
-    Major Projects
-      "🔧 Agentic AI Predictive Maintenance System"
-      "🕵️ Missing Person Detection Face + Gait + Blockchain"
-      "☁️ Autonomous CSPM System"
-      "🧪 ChemViz Industrial Simulator"
-      "💰 Fintech Anomaly Detection & Privacy Platform"
-    Experience
-      "Backend Intern — FastAPI Microservices"
-      "CI/CD, Redis Caching, Async Workers"
-    Achievements
-      "🏆 5th place — Suraksha Cyber Hackathon"
-      "🎯 Flipkart Grid 6.0 & 7.0 Qualified"
-      "📘 NPTEL ML Top 5%"
-      "🚀 Freelance Production Deployments"
+        Blockchain integration
+      
+      ☁️ Autonomous CSPM System
+        Cloud Security Posture Management
+        Automated compliance
+        
+      🧪 ChemViz Industrial Simulator
+        Chemical process visualization
+        Industrial simulation
+        
+      💰 Fintech Platform
+        Anomaly Detection
+        Privacy-focused architecture
+    
+    📊 Experience
+      Backend Intern
+        FastAPI Microservices
+        CI/CD Pipeline Development
+        Redis Caching Systems
+        Async Worker Implementation
+    
+    🏆 Achievements
+      🥇 5th Place — Suraksha Cyber Hackathon
+      🎯 Flipkart Grid
+        6.0 Qualified
+        7.0 Qualified
+      📘 NPTEL Machine Learning
+        Top 5% performer
+      🚀 Freelance Success
+        Production deployments
+        Client projects delivered
+```
 
+# **My Timeline Journey**
+
+<br>
+<br>
+
+```mermaid
+timeline
+    title Devansh Garg's Engineering Journey
+    section Problem Solving
+        2023 : Data Structures & Algorithms<br>Core concepts with Python & Java
+        2023 : Advanced DSA<br>Dynamic Programming<br>Graph Algorithms<br>Trees & Backtracking
+    section Core Foundation
+        2024 : Backend Engineering<br>FastAPI, Spring Boot, Microservices
+        2024 : Distributed Systems<br>Event-Driven Architecture, Kafka
+    section AI/ML Specialization
+        2025 : Machine Learning<br>NPTEL Top 5% Certification
+        2025 : Computer Vision<br>YOLOv8, DeepFace, Gait Analysis
+        2025 : Agentic AI<br>LangGraph, Multi-Agent Systems
+    section DevOps & Cloud
+        2025 : Cloud & Containers<br>AWS, Docker, Kubernetes
+        2025 : Production Systems<br>CI/CD, Terraform, Monitoring
+    section Achievements
+        2025 : Suraksha Hackathon<br>5th Place National
+        2025 : Production Deployments<br>Freelance Projects
+```
+
+# Teck Distribution
+<br>
+<br>
+
+```mermaid
+pie title Tech Stack Distribution
+    "Backend & APIs" : 35
+    "AI/ML & Agentic AI" : 25
+    "DevOps & Cloud" : 20
+    "Databases" : 10
+    "Frontend (Next.js)" : 10
 ```
 
 # **🚀 Top Projects**
