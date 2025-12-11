@@ -171,29 +171,32 @@ mindmap
 # **📊 GitHub Stats**
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourID&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourID&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourID&theme=tokyonight" /> </p>
 
-# Experience
-      "Backend Intern — FastAPI Microservices"
-        "FastAPI microservices"
-        "Async workers"
-        "Redis caching"
-        "CI/CD pipelines"
-        "Containerized deployments"
-        "Production-ready API design"
-# Achievements
-      "🏆 5th place — Suraksha Cyber Hackathon"
-      "🎯 Flipkart Grid 6.0 & 7.0 DSA Rounds Cleared"
-      "🚀 Freelance production deployments"
-      "📘 NPTEL ML Top 5%"
-      "🧠 Built 5+ large-scale AI/Backend systems"
+# 💼 Experience
 
-# Career Goals
-      "Backend Engineer at a high-scale product company"
-      "AI/ML Engineering specialization"
-      "Distributed systems mastery"
-      "Building real-world impactful AI products"
+### *Backend Development Intern — Kuava Digital*  
+Jul 2025 – Sep 2025 • Remote
+##### Key Works Done - FastAPI microservices, Async workers, Redis caching, CI/CD pipelines, Containerized deployments, Production-ready API design.
+- Developed and deployed modular FastAPI microservices for authentication, data ingestion, and internal APIs.
+- Optimized system performance using async workers, Redis caching, and database indexing, reducing API latency significantly.
+- Built clean service boundaries with schema validation, ORM models, and production-ready deployment workflows.
+- Contributed to CI/CD pipelines and containerized deployments using Docker and GitHub Actions.
+
+# 🏆 Achievements
+
+- 🏆 5th place — Suraksha Cyber Hackathon
+- 🎯 Flipkart Grid 6.0 & 7.0 DSA Rounds Cleared
+- 🚀 Freelance production deployments
+- 📘 NPTEL ML Top 5%
+- 🧠 Built 5+ large-scale AI/Backend systems
+
+# 📜 Career Goals
+- Backend Engineer at a high-scale product company
+- AI/ML Engineering specialization
+- Distributed systems mastery
+- Building real-world impactful AI products
 
 # 📬 Contact Me
 ## If you want to collaborate, discuss backend/ML systems, or work on exciting engineering ideas:
 ### 📧 Email — gargdevansh728@gmail.com
 
-### 🔗 LinkedIn — [https://linkedin.com/in/yourID](https://linkedin.com/in/devanshgarg728)
+### 🔗 LinkedIn — [https://linkedin.com/in/devanshgarg728](https://linkedin.com/in/devanshgarg728)
