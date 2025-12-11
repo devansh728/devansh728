@@ -48,16 +48,14 @@ Python | Java | C++ | JavaScript | TypeScript | Go
 
 ```mermaid
 mindmap
-  root((🚀 **Devansh Garg**))
-
+  root(("🚀 Devansh Garg"))
     Identity
       "👨‍💻 Software Engineer"
       "🤖 AI/ML & Agentic AI Specialist"
       "🧩 Backend & Distributed Systems Engineer"
-      "🌐 Full-Stack Developer (Next.js)"
+      "🌐 Full-Stack Developer Next.js"
       "☁️ DevOps & Cloud Engineer"
       "🎯 System Design Enthusiast"
-
     Backend Engineering
       Frameworks
         FastAPI
@@ -76,7 +74,6 @@ mindmap
         "Redis Caching"
         "DB Optimization"
         "System Reliability"
-
     AI & Machine Learning
       Deep Learning
         CNNs
@@ -92,7 +89,6 @@ mindmap
         Gait Analysis
       NLP
         RAG Systems
-
     DevOps & Cloud
       Docker
       Kubernetes
@@ -100,34 +96,30 @@ mindmap
       GitHub Actions
       Jenkins
       Terraform
-
     Full Stack Development
       Next.js
       React
       TailwindCSS
-
     Databases
       PostgreSQL
       MongoDB
       MySQL
       Redis
-
     Major Projects
       "🔧 Agentic AI Predictive Maintenance System"
-      "🕵️ Missing Person Detection (Face + Gait + Blockchain)"
+      "🕵️ Missing Person Detection Face + Gait + Blockchain"
       "☁️ Autonomous CSPM System"
       "🧪 ChemViz Industrial Simulator"
       "💰 Fintech Anomaly Detection & Privacy Platform"
-
     Experience
       "Backend Intern — FastAPI Microservices"
       "CI/CD, Redis Caching, Async Workers"
-      
     Achievements
       "🏆 5th place — Suraksha Cyber Hackathon"
       "🎯 Flipkart Grid 6.0 & 7.0 Qualified"
       "📘 NPTEL ML Top 5%"
       "🚀 Freelance Production Deployments"
+
 ```
 
 # **🚀 Top Projects**
