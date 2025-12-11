@@ -128,3 +128,67 @@ mindmap
       "🎯 Flipkart Grid 6.0 & 7.0 Qualified"
       "📘 NPTEL ML Top 5%"
       "🚀 Freelance Production Deployments"
+```
+
+# **🚀 Top Projects**
+## **🔧 Agentic AI Predictive Maintenance System**
+
+- LSTM-AE anomaly detection + LightGBM failure prediction
+
+- Kafka streaming, digital-twin embeddings, LangGraph agents
+
+# **🕵️ Missing Person Detection (Face + Gait + Blockchain)**
+
+- YOLOv8 + DeepFace
+
+- Gait recognition + Blockchain evidence hashing
+
+- Agentic workflow for CCTV scanning
+
+# **☁️ Autonomous Cloud Security Posture Management (CSPM)**
+
+- Misconfig detection via graph modeling
+
+- Kafka pipelines + auto-remediation
+
+# **🧪 ChemViz – Chemical Equipment Parameter Visualizer**
+
+- Engineering formula engine + safety simulation
+
+#  **💰 Fintech Anomaly Detection & Privacy Engine**
+
+- AI-based risk scoring
+
+- Blockchain-backed consent tracking
+
+- Privacy-first architecture
+
+# **📊 GitHub Stats**
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourID&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourID&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourID&theme=tokyonight" /> </p>
+
+# Experience
+      "Backend Intern — FastAPI Microservices"
+        "FastAPI microservices"
+        "Async workers"
+        "Redis caching"
+        "CI/CD pipelines"
+        "Containerized deployments"
+        "Production-ready API design"
+# Achievements
+      "🏆 5th place — Suraksha Cyber Hackathon"
+      "🎯 Flipkart Grid 6.0 & 7.0 DSA Rounds Cleared"
+      "🚀 Freelance production deployments"
+      "📘 NPTEL ML Top 5%"
+      "🧠 Built 5+ large-scale AI/Backend systems"
+
+# Career Goals
+      "Backend Engineer at a high-scale product company"
+      "AI/ML Engineering specialization"
+      "Distributed systems mastery"
+      "Building real-world impactful AI products"
+
+# 📬 Contact Me
+## If you want to collaborate, discuss backend/ML systems, or work on exciting engineering ideas:
+### 📧 Email — gargdevansh728@gmail.com
+
+### 🔗 LinkedIn — [https://linkedin.com/in/yourID](https://linkedin.com/in/devanshgarg728)
