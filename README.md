@@ -1,5 +1,15 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200" >
+</p>
+
 <h1 align="center">Hi 👋, I'm Devansh Garg</h1>
 <h3 align="center">Software Engineer | Backend • AI/ML • Agentic AI • DevOps • Distributed Systems</h3>
+
+<p align="center">
+  <!-- ANIMATED BADGES -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+%7C+DevOps+Engineer;Microservices+%7C+Distributed+Systems;AgentiOpen+Source+Contributor;Always+Learning+New+Things" />
+</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/devanshgarg728"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" /></a>
@@ -187,4 +197,3 @@ mindmap
 ### 📧 Email — gargdevansh728@gmail.com
 
 ### 🔗 LinkedIn — [https://linkedin.com/in/yourID](https://linkedin.com/in/devanshgarg728)
-
