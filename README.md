@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- ANIMATED BADGES -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+%7C+DevOps+Engineer;Microservices+%7C+Distributed+Systems;AgentiOpen+Source+Contributor;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+%7C+DevOps+Engineer;Microservices+%7C+Distributed+Systems;Agentic+Ai+Developer;AIOps;Open+Source+Contributor;Always+Learning+New+Things" />
 </p>
 
 
